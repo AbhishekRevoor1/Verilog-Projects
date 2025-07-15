@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+a = 0   b = 0   y=0
+a = 1   b = 0   y=0
+a = 1   b = 1   y=1
+a = 0   b = 1   y=0
+$finish called at time : 40 ns : File "/home/abhishek-revoor/Desktop/VERILOG/AND_Gate/AND_Gate.srcs/sim_1/new/tb_and_gate.v" Line 45
