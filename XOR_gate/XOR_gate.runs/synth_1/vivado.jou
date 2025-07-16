@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Jul 16 18:34:12 2025
+# Process ID         : 71075
+# Current directory  : /home/abhishek-revoor/Desktop/VERILOG/XOR_gate/XOR_gate.runs/synth_1
+# Command line       : vivado -log xor_gate.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source xor_gate.tcl
+# Log file           : /home/abhishek-revoor/Desktop/VERILOG/XOR_gate/XOR_gate.runs/synth_1/xor_gate.vds
+# Journal file       : /home/abhishek-revoor/Desktop/VERILOG/XOR_gate/XOR_gate.runs/synth_1/vivado.jou
+# Running On         : abhishek-revoor-PC
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.2 LTS
+# Processor Detail   : Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+# CPU Frequency      : 3897.117 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 6
+# Host memory        : 16703 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 20998 MB
+# Available Virtual  : 12991 MB
+#-----------------------------------------------------------
+source xor_gate.tcl -notrace

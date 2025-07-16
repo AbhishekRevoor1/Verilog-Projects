@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+a = 0 and  y = 1
+a = 1 and  y = 0
+$finish called at time : 20 ns : File "/home/abhishek-revoor/Desktop/VERILOG/not_gate/not_gate.srcs/sim_1/new/tb_not_gate.v" Line 40
